@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "vigade_parandus", "vigade_parandus\vigade_parandus.pyproj", "{B11D532B-229C-4A4A-B2C2-890D2889CEBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B11D532B-229C-4A4A-B2C2-890D2889CEBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11D532B-229C-4A4A-B2C2-890D2889CEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4DBC9CD-0576-4B02-A406-DA9B16E2E9AA}
+	EndGlobalSection
+EndGlobal
